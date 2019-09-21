@@ -1,0 +1,80 @@
+﻿Team Members:
+    Joseph T. Galbreath III
+    Justin Senia
+
+Original Plan:
+    Phase 1:
+        Joseph: Pulled Screens 1-6, 9, 11 & Created Screens 7 and 12
+        Justin: Created Screens 8 and 10 & Applied standardized naming conventions
+
+
+    Phase 2:
+        Joseph: Will make fully functioning Figure 4 and corresponding table.
+        Justin: Will make fully functioning Figure 6 and corresponding table. 
+        Both: Will make ER diagram.
+    
+
+    Phase 3:
+        Joseph: Will make fully functioning 1-2 complete with database read and writes   
+        Justin: Will make fully functioning 3, 5 complete with database read and writes   
+        Both: Will work on relational schema and DDL and DML statements together
+    
+
+    Phase 4:
+        Joseph: Will write up his side of individual contribution 
+        Justin: Will write up his side of individual contribution
+        Both: Will Demo project 
+
+
+Actual Work Distibution:
+    Phase 1 (Complete):
+        Joseph: Pulled Screens 1-6, 9, 11
+                Created Screens 7 and 12
+        Justin: Created Screens 8 and 10 & Applied standardized naming conventions
+
+    Phase 2 (Complete):
+        Joseph: Made fully functioning Figure 4 and corresponding table.
+        Justin: Made fully functioning Figure 6 and corresponding table.
+        Both: Made ER diagram.
+
+    Phase 3 (Complete):
+        Joseph: Made Fully Functional Figures 2, 3, and 4 complete with database read and writes.
+        Justin: Made fully functioning Figures 1, 5 complete with database read and writes,
+        designed and programmed a php session variable based cart from scratch, made sure
+        each page could store data, delete data and modify data with custom functions written
+        for each (based on necessity).
+        Both: Will work on relational schema and DDL and DML statements together
+        Other: Figure 6 was created in the last phase, justin combined the old files into one php file.
+        
+    Phase 4 (Complete Besides Demo):
+        Joseph: Worked on Figures 7, 9, 10, 12
+        Justin: Worked on Figures 8, 10, 11a, 11b
+        Both: Will Demo project
+
+
+Application will be hosted on db2.emich.edu
+
+
+Phase 1: http://db2.emich.edu/~201709_cosc471_group01/index.html
+Phase 2: Figure 4: http://db2.emich.edu/~201709_cosc471_group01/S04_Book_Reviews.php
+         Figure 6: http://db2.emich.edu/~201709_cosc471_group01/S06_Test.php
+Phase 3: Figure 1: http://db2.emich.edu/~201709_cosc471_group01/S01_Welcome.php
+         Figure 2: http://db2.emich.edu/~201709_cosc471_group01/S02_Search.php
+         Figure 3: http://db2.emich.edu/~201709_cosc471_group01/S03_Search_Results.php
+         Figure 4: http://db2.emich.edu/~201709_cosc471_group01/S04_Book_Reviews.php
+         Figure 5: http://db2.emich.edu/~201709_cosc471_group01/S05_Shopping_Cart.php
+         Figure 6: http://db2.emich.edu/~201709_cosc471_group01/S06_Customer_Registration.php
+Phase 4: Index:         http://db2.emich.edu/~201709_cosc471_group01/index.html
+         Figure 1:      http://db2.emich.edu/~201709_cosc471_group01/S01_Welcome.php
+         Figure 2:      http://db2.emich.edu/~201709_cosc471_group01/S02_Search.php
+         Figure 3:      http://db2.emich.edu/~201709_cosc471_group01/S03_Search_Results.php
+         Figure 4:      http://db2.emich.edu/~201709_cosc471_group01/S04_Book_Reviews.php
+         Figure 5:      http://db2.emich.edu/~201709_cosc471_group01/S05_Shopping_Cart.php
+         Figure 6:      http://db2.emich.edu/~201709_cosc471_group01/S06_Customer_Registration.php
+         Figure 7:      http://db2.emich.edu/~201709_cosc471_group01/S07_Require_Registration_Alert.php
+         Figure 8:      http://db2.emich.edu/~201709_cosc471_group01/S08_Order_Confirmation.php
+         Figure 9:      http://db2.emich.edu/~201709_cosc471_group01/S09_Update_Customer_Profile.php
+         Figure 10:     http://db2.emich.edu/~201709_cosc471_group01/S10_Proof_Of_Purchase.php
+         Figure 11a:    http://db2.emich.edu/~201709_cosc471_group01/S11a_User_Login.php
+         Figure 11b:    http://db2.emich.edu/~201709_cosc471_group01/S11b_Admin_Login.php
+         Figure 12:     http://db2.emich.edu/~201709_cosc471_group01/S12_Admin_Report.php
